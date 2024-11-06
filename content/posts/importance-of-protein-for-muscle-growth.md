@@ -3,7 +3,7 @@ title: "The Importance of Protein for Muscle Growth"
 date: 2024-11-06
 tags: ["protein", "muscle growth", "fitness"]
 categories: ["nutrition"]
-author: "Your Name"
+author: "Abhay"
 ---
 
 ## The Importance of Protein for Muscle Growth
