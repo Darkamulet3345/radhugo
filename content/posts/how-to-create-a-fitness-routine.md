@@ -3,7 +3,7 @@ title: "How to Create a Fitness Routine That Works for You"
 date: 2024-11-06
 tags: ["fitness", "workout routine", "health"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Priyanka"
 ---
 
 ## How to Create a Fitness Routine That Works for You
