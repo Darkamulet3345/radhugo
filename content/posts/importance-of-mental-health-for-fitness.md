@@ -3,7 +3,7 @@ title: "The Importance of Mental Health for Fitness"
 date: 2024-11-06
 tags: ["mental health", "fitness", "wellness"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Jayanti"
 ---
 
 ## The Importance of Mental Health for Fitness
