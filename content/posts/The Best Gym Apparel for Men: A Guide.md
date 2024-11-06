@@ -3,7 +3,7 @@ title: "The Best Gym Apparel for Men: A Guide"
 date: 2024-11-06
 tags: ["gym apparel", "men's fitness", "workout clothing"]
 categories: ["fitness", "apparel"]
-author: "Your Name"
+author: "Krishna Verma"
 ---
 
 ## The Best Gym Apparel for Men: A Guide
