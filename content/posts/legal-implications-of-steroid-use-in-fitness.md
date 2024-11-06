@@ -3,7 +3,7 @@ title: "Legal Implications of Steroid Use in Fitness"
 date: 2024-11-06
 tags: ["steroids", "fitness", "legal"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Ashu Dubey"
 ---
 
 ## Legal Implications of Steroid Use in Fitness
