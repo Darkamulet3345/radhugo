@@ -26,7 +26,7 @@ Investing in durable gym wear saves you money in the long run, as high-quality p
 
 Wearing the best gym wear boosts confidence and motivation. When you look good, you feel good—helping you stay focused on your fitness goals.
 
-For top-notch [fitness wear](https://www.gymshark.com/){:rel="nofollow"}, check out the [best gym wear brand](https://www.radowl.co.in) that combines style, comfort, and durability for men who prioritize performance and quality.
+For top-notch <a href="https://www.gymshark.com/" rel="nofollow">fitness wear</a>, check out the [best gym wear brand](https://www.radowl.co.in) that combines style, comfort, and durability for men who prioritize performance and quality.
 
 ### 5. Conclusion
 
