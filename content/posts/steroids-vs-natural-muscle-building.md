@@ -3,7 +3,7 @@ title: "Steroids vs Natural Muscle Building"
 date: 2024-11-06
 tags: ["muscle building", "steroids", "fitness"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Nandini"
 ---
 
 ## Steroids vs Natural Muscle Building
