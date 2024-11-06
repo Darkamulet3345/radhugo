@@ -3,7 +3,7 @@ title: "The Top Benefits of Regular Exercise"
 date: 2024-11-06
 tags: ["fitness", "health", "exercise"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Vivek"
 ---
 
 ## The Top Benefits of Regular Exercise
