@@ -30,4 +30,4 @@ For top-notch <a href="https://www.gymshark.com/" rel="nofollow">fitness wear</a
 
 ### 5. Conclusion
 
-Investing in a [top gym wear](https://www.vogue.co.uk/fashion/article/best-activewear){:rel="nofollow"} brand provides comfort, durability, and style. With the right apparel, you can enhance your performance and enjoy your workouts even more.
+Investing in a <a href="https://www.vogue.co.uk/fashion/article/best-activewear" rel="nofollow">top gym wear</a>brand provides comfort, durability, and style. With the right apparel, you can enhance your performance and enjoy your workouts even more.
