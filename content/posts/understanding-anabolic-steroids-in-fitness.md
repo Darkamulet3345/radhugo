@@ -3,7 +3,7 @@ title: "Understanding Anabolic Steroids in Fitness"
 date: 2024-11-06
 tags: ["anabolic steroids", "fitness", "muscle building"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Richa Sharma"
 ---
 
 ## Understanding Anabolic Steroids in Fitness
