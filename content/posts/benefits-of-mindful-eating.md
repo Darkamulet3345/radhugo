@@ -3,7 +3,7 @@ title: "The Benefits of Mindful Eating"
 date: 2024-11-06
 tags: ["mindful eating", "health", "wellness"]
 categories: ["nutrition"]
-author: "Your Name"
+author: "Aditi"
 ---
 
 ## The Benefits of Mindful Eating
