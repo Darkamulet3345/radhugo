@@ -3,7 +3,7 @@ title: "Healthy Eating Habits for Fitness"
 date: 2024-11-06
 tags: ["nutrition", "fitness", "healthy eating"]
 categories: ["nutrition"]
-author: "Your Name"
+author: "Nishi"
 ---
 
 ## Healthy Eating Habits for Fitness
