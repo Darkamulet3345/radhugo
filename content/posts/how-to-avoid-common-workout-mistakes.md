@@ -3,7 +3,7 @@ title: "How to Avoid Common Workout Mistakes"
 date: 2024-11-06
 tags: ["workout mistakes", "fitness", "exercise"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Nishu"
 ---
 
 ## How to Avoid Common Workout Mistakes
