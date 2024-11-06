@@ -3,7 +3,7 @@ title: "Are Steroids Necessary for Bodybuilding?"
 date: 2024-11-06
 tags: ["bodybuilding", "steroids", "fitness"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Shivangi"
 ---
 
 ## Are Steroids Necessary for Bodybuilding?
