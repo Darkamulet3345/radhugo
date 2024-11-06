@@ -3,7 +3,7 @@ title: "Side Effects of Using Steroids for Muscle Growth"
 date: 2024-11-06
 tags: ["steroids", "muscle growth", "side effects"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Khushi"
 ---
 
 ## Side Effects of Using Steroids for Muscle Growth
