@@ -3,7 +3,7 @@ title: "The Importance of Stretching Before and After a Workout"
 date: 2024-11-06
 tags: ["fitness", "stretching", "workout"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Shweta Shukla"
 ---
 
 ## The Importance of Stretching Before and After a Workout
