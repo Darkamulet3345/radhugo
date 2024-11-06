@@ -3,7 +3,7 @@ title: "The History of Steroids in Fitness"
 date: 2024-11-06
 tags: ["steroids", "history", "fitness"]
 categories: ["fitness"]
-author: "Your Name"
+author: "Jay Yadav"
 ---
 
 ## The History of Steroids in Fitness
