@@ -3,7 +3,7 @@ title: "Top Gym Wear Essentials for Men"
 date: 2024-11-06
 tags: ["gym wear", "fitness", "men's fashion"]
 categories: ["fitness", "apparel"]
-author: "Your Name"
+author: "Rishi"
 ---
 
 ## Top Gym Wear Essentials for Men
