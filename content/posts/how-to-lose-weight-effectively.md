@@ -3,7 +3,7 @@ title: "How to Lose Weight Effectively"
 date: 2024-11-06
 tags: ["weight loss", "fitness", "health"]
 categories: ["weight loss"]
-author: "Your Name"
+author: "Vishal"
 ---
 
 ## How to Lose Weight Effectively
