@@ -3,7 +3,7 @@ title: "Gym Men's Wear: Choosing the Right Workout Outfit"
 date: 2024-11-06
 tags: ["gym wear", "men's fitness apparel", "workout clothing"]
 categories: ["fitness", "fashion"]
-author: "Your Name"
+author: "Akruti"
 ---
 
 ## Gym Men's Wear: Choosing the Right Workout Outfit
