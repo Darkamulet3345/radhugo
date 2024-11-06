@@ -3,7 +3,7 @@ title: "Fitness Clothing for Men: Style and Performance Tips"
 date: 2024-11-06
 tags: ["fitness clothing", "men's gym wear", "workout style"]
 categories: ["fashion", "fitness"]
-author: "Your Name"
+author: "Arya"
 ---
 
 ## Fitness Clothing for Men: Style and Performance Tips
