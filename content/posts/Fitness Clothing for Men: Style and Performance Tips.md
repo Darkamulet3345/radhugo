@@ -20,8 +20,7 @@ Tight or loose gym wear can affect comfort and performance. Choose a fit that of
 
 ### 3. Invest in High-Quality Footwear
 
-Wearing the right footwear is essential for stability and injury prevention. Choose shoes based on your workout type, like running shoes for cardio or <a href="https://www.adidas.com/us/weightlifting" rel="nofollow">lifting shoes for weight training</a>
-.
+Wearing the right footwear is essential for stability and injury prevention. Choose shoes based on your workout type, like running shoes for cardio or <a href="https://www.adidas.com/us/weightlifting" rel="nofollow">lifting shoes for weight training</a>.
 
 ### 4. Layering for Outdoor Workouts
 
