@@ -3,7 +3,7 @@ title: "How to Create a Sustainable Fitness Routine"
 date: 2024-11-06
 tags: ["fitness", "routine", "sustainability"]
 categories: ["fitness"]
-author: "Rishabh
+author: "Rishabh"
 ---
 
 ## How to Create a Sustainable Fitness Routine
