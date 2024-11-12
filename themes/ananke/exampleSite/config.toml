@@ -18,6 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
+  robots = "index, follow"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
